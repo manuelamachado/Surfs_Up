@@ -5,9 +5,9 @@ Queried the data from database, analyzed the data by PANDAS and offered visualiz
 
 Step1. Data Cleaning and database engineering
 
-Input: Two csv files with Hawaii weather and station information in the directory /Resources
-Script: Used Pandas and SQLAlchemy to clean data and create database to store the data
-Output: Two cleaned csv files and hawaii.sqlite stored in the output directory
+* Input: Two csv files with Hawaii weather and station information in the directory /Resources
+* Script: Used Pandas and SQLAlchemy to clean data and create database to store the data
+* Output: Two cleaned csv files and hawaii.sqlite stored in the output directory
 
 Step2. Data retrieving, analysis and visualization
 
