@@ -15,10 +15,6 @@ Step2. Data retrieving, analysis and visualization
 * Output: Data Visualizations stored in the output directory
 
 
-<img src='images/surfs-up.jpeg' />
-
-
-
 ## Step 1 - Data Engineering
 
 * Created a Jupyter Notebook file called `data_engineering.ipynb` and use this to complete all of my Data Engineering tasks.
